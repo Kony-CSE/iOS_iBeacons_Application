@@ -4,7 +4,7 @@ Purpose:
 
 This app showcases how iBeacon Technology can be used with Kony Apps. 
 
-Requirements:
+Requirements:                                                                                                                        
 In this application, we show below details.
 
 ● How to turn iPhone as iBeacon Transmitter using Kony App.
